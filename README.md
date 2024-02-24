@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashekinashik" alt="ashekinashik" /></a> </p>
 
-- 🔭 I’m currently working on [EcoLECTRICITY](www.github.com/AshekinAshik/EcoLECTRICITY_thesis)
+- 🔭 I’m currently working on [EcoLECTRICITY]([www.github.com/AshekinAshik/EcoLECTRICITY_thesis](https://github.com/AshekinAshik/EcoLECTRICITY_thesis))
 
 - 🌱 I’m currently learning **NextJS, NestJS, TypeScript**
 
